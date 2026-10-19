@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://liyakhar.github.io/mia-site/sitemap.xml

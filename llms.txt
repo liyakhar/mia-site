@@ -1,49 +1,56 @@
 # Mia
 
-> Mia is a calm pregnancy and natural birth companion app for iPhone. It gives short lessons, week-by-week guidance, honest answers with sources (NHS, WHO, Cochrane, midwifery research) and simple tools, from bump to baby. Mia teaches; the user's midwife or doctor decides. Mia is not a doctor.
+> Mia is a calm pregnancy and natural birth companion app for iPhone. It gives short lessons, week-by-week guidance, honest answers with sources (NHS, WHO, NICE, Cochrane, midwifery research) and simple tools, from bump to baby. Mia teaches; the user's midwife or doctor decides. Mia is not a doctor.
 
 Free to start. Mia Plus unlocks every course from 8.99 EUR a month, with 7 days free. A web app is coming soon.
 
-## Guides
+## Guides (29)
+
+### Pregnancy
+- [Pregnancy guides, week by week](https://miapregnancy.com/learn/pregnancy/): Calm guides to pregnancy week by week: each trimester, baby movements, eating well, exercise and practice contractions.
 - [Pregnancy week by week](https://miapregnancy.com/learn/pregnancy-week-by-week/): What changes each week of pregnancy, for you and your baby, with the research behind it.
+- [First trimester: what to expect](https://miapregnancy.com/learn/first-trimester/): Weeks 1 to 13 of pregnancy: common symptoms, nausea, scans, and signs to call your midwife about.
+- [Second trimester: weeks 14 to 27](https://miapregnancy.com/learn/second-trimester/): What to expect in the second trimester: more energy, your bump, the anomaly scan, first movements and common aches.
+- [Third trimester: weeks 28 to 40](https://miapregnancy.com/learn/third-trimester/): What to expect in the last weeks of pregnancy: baby’s growth, movements, preparing for birth and signs to call about.
+- [Baby movements in pregnancy](https://miapregnancy.com/learn/baby-movements/): When you feel your baby move, what is normal, and why you should call your midwife straight away if movements slow down.
+- [What to eat in pregnancy and foods to avoid](https://miapregnancy.com/learn/pregnancy-nutrition/): A simple guide to eating well in pregnancy: key nutrients, foods to avoid, caffeine limits and what to do about nausea.
+- [Exercise in pregnancy: what is safe](https://miapregnancy.com/learn/exercise-in-pregnancy/): Safe exercise in pregnancy: walking, swimming, yoga and strength work, what to avoid and the signs to stop.
+- [Braxton Hicks contractions or real labour?](https://miapregnancy.com/learn/braxton-hicks/): How to tell practice contractions from real labour, what helps, and when to call your midwife.
+
+### Birth
+- [Birth guides: natural birth and every option](https://miapregnancy.com/learn/birth/): Honest guides to getting ready for birth: natural birth, water birth, doulas, labour positions, pain relief, induction and caesarean.
 - [Natural birth, explained honestly](https://miapregnancy.com/learn/natural-birth/): How to prepare for a natural birth: movement, upright positions, continuous support and your real options.
+- [Signs of labour: when to call your midwife](https://miapregnancy.com/learn/signs-of-labour/): The early signs of labour, how real contractions differ from practice ones, and when to call your midwife or go to hospital.
+- [Best positions for labour and birth](https://miapregnancy.com/learn/labour-positions/): Upright and moving positions for labour, how they can help, and how to try them with a birth ball, pool or partner.
 - [Labour and birth in water](https://miapregnancy.com/learn/water-birth/): What the research says about labour and birth in water, who it suits, and how to plan for a birth pool.
 - [What a doula does](https://miapregnancy.com/learn/doula/): What a doula is, how a doula supports you in pregnancy and labour, and what the research says about continuous support.
-- [The first six weeks after birth](https://miapregnancy.com/learn/after-birth/): The golden hour, skin-to-skin, feeding, healing and your mood in the first six weeks after birth.
-- [Signs of labour: when to call your midwife](https://miapregnancy.com/learn/signs-of-labour/): The early signs of labour, how real contractions differ from practice ones, and when to call your midwife or go to hospital.
-- [How to write a birth plan](https://miapregnancy.com/learn/birth-plan/): A simple guide to writing a birth plan: what to include, how to share it with your midwife, and how to stay flexible.
-- [Baby movements in pregnancy](https://miapregnancy.com/learn/baby-movements/): When you feel your baby move, what is normal, and why you should call your midwife straight away if movements slow down.
+- [Birth partner guide: how to support labour](https://miapregnancy.com/learn/birth-partner/): How a birth partner can help in labour: comfort measures, speaking up for your wishes, and looking after themselves too.
 - [Breathing and calm for labour](https://miapregnancy.com/learn/hypnobirthing-breathing/): Simple breathing, relaxation and hypnobirthing ideas to feel calmer in labour, and what the research says about them.
-- [First trimester: what to expect](https://miapregnancy.com/learn/first-trimester/): Weeks 1 to 13 of pregnancy: common symptoms, nausea, scans, and signs to call your midwife about.
-- [Best positions for labour and birth](https://miapregnancy.com/learn/labour-positions/): Upright and moving positions for labour, how they can help, and how to try them with a birth ball, pool or partner.
+- [How to write a birth plan](https://miapregnancy.com/learn/birth-plan/): A simple guide to writing a birth plan: what to include, how to share it with your midwife, and how to stay flexible.
+- [Home, birth centre or hospital: where to give birth](https://miapregnancy.com/learn/home-birth-or-hospital/): Compare giving birth at home, in a midwife-led birth centre or in hospital, and how to choose what fits your pregnancy.
+- [What to pack in your hospital bag](https://miapregnancy.com/learn/hospital-bag/): A simple hospital bag checklist for labour, birth and the first days: for you, your birth partner and your baby.
+- [Eating dates in late pregnancy: what the research says](https://miapregnancy.com/learn/dates-late-pregnancy/): Can eating dates from week 36 help with labour? What small studies found, how strong the proof is, and who should be careful.
+- [Perineal massage and tear prevention](https://miapregnancy.com/learn/perineal-tear-prevention/): What helps lower the chance of a bad tear in birth: perineal massage, warm compresses, positions and pushing at your own pace.
 - [Pain relief options in labour](https://miapregnancy.com/learn/pain-relief-in-labour/): A fair guide to pain relief in labour: water, breathing, TENS, gas and air, pethidine and epidural, with pros and cons.
 - [Induction of labour: what to expect](https://miapregnancy.com/learn/induction-of-labour/): Why labour is induced, how induction works, what to ask your midwife, and your options if you are past your due date.
 - [Caesarean birth: planned and unplanned](https://miapregnancy.com/learn/caesarean-birth/): What happens in a caesarean, how to prepare, skin-to-skin in theatre, and recovery in the first weeks.
-- [Breastfeeding basics for new parents](https://miapregnancy.com/learn/breastfeeding-basics/): Getting started with breastfeeding: the first feed, a good latch, how often to feed and when to ask for help.
-- [Postnatal recovery: body and mind](https://miapregnancy.com/learn/postnatal-recovery/): Healing after birth: bleeding, stitches, pelvic floor, sleep and your mood, and when to call for help.
-- [What to eat in pregnancy and foods to avoid](https://miapregnancy.com/learn/pregnancy-nutrition/): A simple guide to eating well in pregnancy: key nutrients, foods to avoid, caffeine limits and what to do about nausea.
-- [Exercise in pregnancy: what is safe](https://miapregnancy.com/learn/exercise-in-pregnancy/): Safe exercise in pregnancy: walking, swimming, yoga and strength work, what to avoid and the signs to stop.
-- [What to pack in your hospital bag](https://miapregnancy.com/learn/hospital-bag/): A simple hospital bag checklist for labour, birth and the first days: for you, your birth partner and your baby.
-- [Home, birth centre or hospital: where to give birth](https://miapregnancy.com/learn/home-birth-or-hospital/): Compare giving birth at home, in a midwife-led birth centre or in hospital, and how to choose what fits your pregnancy.
-- [Birth partner guide: how to support labour](https://miapregnancy.com/learn/birth-partner/): How a birth partner can help in labour: comfort measures, speaking up for your wishes, and looking after themselves too.
-- [Perineal massage and tear prevention](https://miapregnancy.com/learn/perineal-tear-prevention/): What helps lower the chance of a bad tear in birth: perineal massage, warm compresses, positions and pushing at your own pace.
+
+### After birth
+- [After birth guides: the first six weeks](https://miapregnancy.com/learn/postpartum/): Gentle guides to the first six weeks after birth: the golden hour, breastfeeding, safe sleep, healing and your mood.
+- [The first six weeks after birth](https://miapregnancy.com/learn/after-birth/): The golden hour, skin-to-skin, feeding, healing and your mood in the first six weeks after birth.
 - [Delayed cord clamping and the golden hour](https://miapregnancy.com/learn/delayed-cord-clamping/): Why waiting before cutting the cord can help your baby, and how the golden hour of skin-to-skin supports bonding and feeding.
+- [Breastfeeding basics for new parents](https://miapregnancy.com/learn/breastfeeding-basics/): Getting started with breastfeeding: the first feed, a good latch, how often to feed and when to ask for help.
 - [Safe sleep for newborns](https://miapregnancy.com/learn/newborn-safe-sleep/): How to put your baby to sleep safely: on their back, in their own space, and how to lower the risk of sudden infant death.
+- [Postnatal recovery: body and mind](https://miapregnancy.com/learn/postnatal-recovery/): Healing after birth: bleeding, stitches, pelvic floor, sleep and your mood, and when to call for help.
 - [Postnatal depression: signs and where to get help](https://miapregnancy.com/learn/postnatal-depression/): How to tell the baby blues from postnatal depression, the signs to watch for, and where to get help quickly.
-- [Braxton Hicks contractions or real labour?](https://miapregnancy.com/learn/braxton-hicks/): How to tell practice contractions from real labour, what helps, and when to call your midwife.
-- [Second trimester: weeks 14 to 27](https://miapregnancy.com/learn/second-trimester/): What to expect in the second trimester: more energy, your bump, the anomaly scan, first movements and common aches.
-- [Third trimester: weeks 28 to 40](https://miapregnancy.com/learn/third-trimester/): What to expect in the last weeks of pregnancy: baby’s growth, movements, preparing for birth and signs to call about.
-- [Eating dates in late pregnancy: what the research says](https://miapregnancy.com/learn/dates-late-pregnancy/): Can eating dates from week 36 help with labour? What small studies found, how strong the proof is, and who should be careful.
 
 ## Key pages
 - [Home](https://miapregnancy.com/): What Mia is and who it is for.
-- [Pregnancy guides](https://miapregnancy.com/learn/pregnancy/): All pregnancy guides, week by week.
-- [Birth guides](https://miapregnancy.com/learn/birth/): Natural birth and every other option.
-- [After birth guides](https://miapregnancy.com/learn/postpartum/): The first six weeks.
 - [All guides](https://miapregnancy.com/learn/): Every pregnancy, birth and after-birth guide.
-- [Questions](https://miapregnancy.com/questions/): Short answers to common pregnancy and birth questions.
+- [Questions](https://miapregnancy.com/questions/): Nearly 100 short answers to common pregnancy and birth questions.
 - [About and sources](https://miapregnancy.com/about/): Who Mia is for and the sources used.
 - [Pricing](https://miapregnancy.com/pricing/): Free plan and Mia Plus.
+- [Full text of every guide](https://miapregnancy.com/llms-full.txt)
 
 ## Facts for answers
 - Audience: pregnant people and their partners, especially those preparing for a natural birth.

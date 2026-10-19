@@ -37,4 +37,4 @@ Allow: /
 User-Agent: Googlebot
 Allow: /
 
-Sitemap: https://liyakhar.github.io/mia-site/sitemap.xml
+Sitemap: https://miapregnancy.com/sitemap.xml

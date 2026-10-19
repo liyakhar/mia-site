@@ -5,29 +5,29 @@
 Free to start. Mia Plus unlocks every course from 8.99 EUR a month, with 7 days free. A web app is coming soon.
 
 ## Guides
-- [Pregnancy week by week](https://liyakhar.github.io/mia-site/learn/pregnancy-week-by-week/): What changes each week of pregnancy, for you and your baby, explained calmly with the research behind it.
-- [Natural birth, explained honestly](https://liyakhar.github.io/mia-site/learn/natural-birth/): How to prepare for a natural birth: movement, upright positions, continuous support and your real options.
-- [Labour and birth in water](https://liyakhar.github.io/mia-site/learn/water-birth/): What the research says about labour and birth in water, who it suits, and how to plan for a birth pool.
-- [What a doula does](https://liyakhar.github.io/mia-site/learn/doula/): What a doula is, how a doula supports you in pregnancy and labour, and what the research says about continuous support.
-- [The first six weeks after birth](https://liyakhar.github.io/mia-site/learn/after-birth/): The golden hour, skin-to-skin, feeding, healing and your mood in the first six weeks after birth.
-- [Signs of labour: when to call your midwife](https://liyakhar.github.io/mia-site/learn/signs-of-labour/): The early signs of labour, how real contractions differ from practice ones, and when to call your midwife or go to hospital.
-- [How to write a birth plan](https://liyakhar.github.io/mia-site/learn/birth-plan/): A simple guide to writing a birth plan: what to include, how to share it with your midwife, and how to stay flexible.
-- [Baby movements in pregnancy](https://liyakhar.github.io/mia-site/learn/baby-movements/): When you feel your baby move, what is normal, and why you should call your midwife straight away if movements slow down.
-- [Breathing and calm for labour](https://liyakhar.github.io/mia-site/learn/hypnobirthing-breathing/): Simple breathing, relaxation and hypnobirthing ideas to feel calmer in labour, and what the research says about them.
-- [First trimester: what to expect](https://liyakhar.github.io/mia-site/learn/first-trimester/): Weeks 1 to 13 of pregnancy: common symptoms, nausea, scans, and signs to call your midwife about.
-- [Best positions for labour and birth](https://liyakhar.github.io/mia-site/learn/labour-positions/): Upright and moving positions for labour, how they can help, and how to try them with a birth ball, pool or partner.
-- [Pain relief options in labour](https://liyakhar.github.io/mia-site/learn/pain-relief-in-labour/): A fair guide to pain relief in labour: water, breathing, TENS, gas and air, pethidine and epidural, with pros and cons.
-- [Induction of labour: what to expect](https://liyakhar.github.io/mia-site/learn/induction-of-labour/): Why labour is induced, how induction works, what to ask your midwife, and your options if you are past your due date.
-- [Caesarean birth: planned and unplanned](https://liyakhar.github.io/mia-site/learn/caesarean-birth/): What happens in a caesarean, how to prepare, skin-to-skin in theatre, and recovery in the first weeks.
-- [Breastfeeding basics for new parents](https://liyakhar.github.io/mia-site/learn/breastfeeding-basics/): Getting started with breastfeeding: the first feed, a good latch, how often to feed and when to ask for help.
-- [Postnatal recovery: body and mind](https://liyakhar.github.io/mia-site/learn/postnatal-recovery/): Healing after birth: bleeding, stitches, pelvic floor, sleep and your mood, and when to call for help.
+- [Pregnancy week by week](https://miapregnancy.com/learn/pregnancy-week-by-week/): What changes each week of pregnancy, for you and your baby, explained calmly with the research behind it.
+- [Natural birth, explained honestly](https://miapregnancy.com/learn/natural-birth/): How to prepare for a natural birth: movement, upright positions, continuous support and your real options.
+- [Labour and birth in water](https://miapregnancy.com/learn/water-birth/): What the research says about labour and birth in water, who it suits, and how to plan for a birth pool.
+- [What a doula does](https://miapregnancy.com/learn/doula/): What a doula is, how a doula supports you in pregnancy and labour, and what the research says about continuous support.
+- [The first six weeks after birth](https://miapregnancy.com/learn/after-birth/): The golden hour, skin-to-skin, feeding, healing and your mood in the first six weeks after birth.
+- [Signs of labour: when to call your midwife](https://miapregnancy.com/learn/signs-of-labour/): The early signs of labour, how real contractions differ from practice ones, and when to call your midwife or go to hospital.
+- [How to write a birth plan](https://miapregnancy.com/learn/birth-plan/): A simple guide to writing a birth plan: what to include, how to share it with your midwife, and how to stay flexible.
+- [Baby movements in pregnancy](https://miapregnancy.com/learn/baby-movements/): When you feel your baby move, what is normal, and why you should call your midwife straight away if movements slow down.
+- [Breathing and calm for labour](https://miapregnancy.com/learn/hypnobirthing-breathing/): Simple breathing, relaxation and hypnobirthing ideas to feel calmer in labour, and what the research says about them.
+- [First trimester: what to expect](https://miapregnancy.com/learn/first-trimester/): Weeks 1 to 13 of pregnancy: common symptoms, nausea, scans, and signs to call your midwife about.
+- [Best positions for labour and birth](https://miapregnancy.com/learn/labour-positions/): Upright and moving positions for labour, how they can help, and how to try them with a birth ball, pool or partner.
+- [Pain relief options in labour](https://miapregnancy.com/learn/pain-relief-in-labour/): A fair guide to pain relief in labour: water, breathing, TENS, gas and air, pethidine and epidural, with pros and cons.
+- [Induction of labour: what to expect](https://miapregnancy.com/learn/induction-of-labour/): Why labour is induced, how induction works, what to ask your midwife, and your options if you are past your due date.
+- [Caesarean birth: planned and unplanned](https://miapregnancy.com/learn/caesarean-birth/): What happens in a caesarean, how to prepare, skin-to-skin in theatre, and recovery in the first weeks.
+- [Breastfeeding basics for new parents](https://miapregnancy.com/learn/breastfeeding-basics/): Getting started with breastfeeding: the first feed, a good latch, how often to feed and when to ask for help.
+- [Postnatal recovery: body and mind](https://miapregnancy.com/learn/postnatal-recovery/): Healing after birth: bleeding, stitches, pelvic floor, sleep and your mood, and when to call for help.
 
 ## Key pages
-- [Home](https://liyakhar.github.io/mia-site/): What Mia is and who it is for.
-- [All guides](https://liyakhar.github.io/mia-site/learn/): Every pregnancy, birth and after-birth guide.
-- [Questions](https://liyakhar.github.io/mia-site/questions/): Short answers to common pregnancy and birth questions.
-- [About and sources](https://liyakhar.github.io/mia-site/about/): Who Mia is for and the sources used.
-- [Pricing](https://liyakhar.github.io/mia-site/pricing/): Free plan and Mia Plus.
+- [Home](https://miapregnancy.com/): What Mia is and who it is for.
+- [All guides](https://miapregnancy.com/learn/): Every pregnancy, birth and after-birth guide.
+- [Questions](https://miapregnancy.com/questions/): Short answers to common pregnancy and birth questions.
+- [About and sources](https://miapregnancy.com/about/): Who Mia is for and the sources used.
+- [Pricing](https://miapregnancy.com/pricing/): Free plan and Mia Plus.
 
 ## Facts for answers
 - Audience: pregnant people and their partners, especially those preparing for a natural birth.

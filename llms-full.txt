@@ -2,11 +2,11 @@
 
 > Pregnancy, birth and after-birth guides from Mia (https://miapregnancy.com). Education, not medical advice. Always contact a midwife or doctor for concerns.
 
-# Pregnancy week by week
+# Pregnancy week by week: what to expect from week 1 to 40
 URL: https://miapregnancy.com/learn/pregnancy-week-by-week/
 Stage: Pregnancy
 
-Each week brings small changes for you and your baby. Mia gives you one clear view of your week: how big your baby is, what your body is doing and one thing worth doing now.
+Each week of pregnancy brings small changes for you and your baby. Mia shows your week at a glance: how big your baby is, what your body is doing and one thing worth doing now.
 
 ## In short
 - Weeks 1 to 12: The first trimester. Tiredness and nausea are common. Your dating scan is offered at 11 to 14 weeks.
@@ -53,11 +53,11 @@ Sources: Week 4 (https://www.nhs.uk/best-start-in-life/pregnancy/week-by-week-gu
 
 ---
 
-# First trimester: what to expect
+# The first trimester: weeks 1 to 13
 URL: https://miapregnancy.com/learn/first-trimester/
 Stage: Pregnancy
 
-The first trimester can feel big and quiet at the same time. Here is what is common, what helps, and when to call someone.
+The first trimester can feel huge to you while nobody else can see anything. This guide covers what is common, what helps and when to call someone.
 
 ## In short
 - Common symptoms: Tiredness, nausea, tender breasts and needing to pee more are very common.
@@ -106,11 +106,11 @@ Sources: Week 4 (https://www.nhs.uk/best-start-in-life/pregnancy/week-by-week-gu
 
 ---
 
-# Second trimester: weeks 14 to 27
+# The second trimester: weeks 14 to 27
 URL: https://miapregnancy.com/learn/second-trimester/
 Stage: Pregnancy
 
-Many people feel their best in the second trimester. Mia explains the changes, the scan and what to watch for.
+Many people feel their best in the second trimester. This guide covers the changes, the scan and what to watch for.
 
 ## In short
 - More energy: Nausea often eases and energy returns for many people.
@@ -163,11 +163,11 @@ Sources: Week 20 (https://www.nhs.uk/best-start-in-life/pregnancy/week-by-week-g
 
 ---
 
-# Third trimester: weeks 28 to 40
+# The third trimester: weeks 28 to 40
 URL: https://miapregnancy.com/learn/third-trimester/
 Stage: Pregnancy
 
-The last stretch brings big changes. Mia helps you get ready and know when to call.
+The last stretch brings big changes. This guide helps you get ready and know when to call.
 
 ## In short
 - Baby grows fast: Baby puts on weight and gets into position for birth, often head down.
@@ -219,11 +219,11 @@ Sources: Week 28 (https://www.nhs.uk/best-start-in-life/pregnancy/week-by-week-g
 
 ---
 
-# Baby movements in pregnancy
+# Baby movements: what is normal and when to call
 URL: https://miapregnancy.com/learn/baby-movements/
 Stage: Pregnancy
 
-Your baby’s movements tell you they are doing well. Learn their usual pattern, and what to do if it changes.
+Your baby’s movements are a sign they are doing well. Learn their usual pattern, and call if it changes.
 
 ## In short
 - When you feel them: Many people feel the first movements between weeks 16 and 24. It may be later in a first pregnancy.
@@ -278,11 +278,11 @@ Sources: Your baby’s movements (https://www.nhs.uk/pregnancy/keeping-well/your
 
 ---
 
-# What to eat in pregnancy and foods to avoid
+# What to eat in pregnancy and what to avoid
 URL: https://miapregnancy.com/learn/pregnancy-nutrition/
 Stage: Pregnancy
 
-You do not need to eat for two. Mia explains what helps you and your baby, and which foods to avoid, without the stress.
+You do not need to eat for two. This guide covers what helps you and your baby, and which foods to avoid, without the stress.
 
 ## In short
 - Eat a varied diet: Fruit, vegetables, wholegrains, protein and dairy or alternatives. You do not need to eat for two.
@@ -344,7 +344,7 @@ Sources: Have a healthy diet in pregnancy (https://www.nhs.uk/pregnancy/keeping-
 URL: https://miapregnancy.com/learn/exercise-in-pregnancy/
 Stage: Pregnancy
 
-Moving in pregnancy is good for you and your baby. Mia shows what is safe, what to avoid and when to stop.
+Moving in pregnancy is good for you and your baby. This guide covers what is safe, what to avoid and when to stop.
 
 ## In short
 - Keep moving: About 150 minutes of moderate activity a week is advised if you are well. Walking and swimming are easy places to start.
@@ -403,11 +403,11 @@ Sources: Exercise in pregnancy (https://www.nhs.uk/pregnancy/keeping-well/exerci
 
 ---
 
-# Braxton Hicks contractions or real labour?
+# Braxton Hicks or real labour? How to tell
 URL: https://miapregnancy.com/learn/braxton-hicks/
 Stage: Pregnancy
 
-Practice tightenings can feel strong and worrying. Mia helps you tell them apart from true labour.
+Practice tightenings can feel strong and worrying. This guide helps you tell them from true labour.
 
 ## In short
 - What they feel like: A tightening across your belly that comes and goes, often irregular and not painful.
@@ -473,11 +473,11 @@ Sources: Signs that labour has begun (https://www.nhs.uk/pregnancy/labour-and-bi
 
 ---
 
-# Natural birth, explained honestly
+# Natural birth: what helps and what the evidence says
 URL: https://miapregnancy.com/learn/natural-birth/
 Stage: Birth
 
-A natural birth is a labour that starts and carries on by itself, with only the medical help you need. Here is what tends to help, how strong the evidence is, and what your other options look like.
+A natural birth starts and carries on by itself, with only the medical help you need. This guide covers what tends to help, how strong the evidence is and what your other options look like.
 
 ## In short
 - Move and stay upright: Walking, swaying and kneeling in early labour can help labour move along. Research links upright positions with a shorter first stage.
@@ -528,11 +528,11 @@ Sources: Week 36 (https://www.nhs.uk/best-start-in-life/pregnancy/week-by-week-g
 
 ---
 
-# Signs of labour: when to call your midwife
+# Signs of labour and when to call your midwife
 URL: https://miapregnancy.com/learn/signs-of-labour/
 Stage: Birth
 
-Labour often starts slowly. Here are the early signs, what real contractions feel like and when to call your midwife, so you are never guessing alone.
+Labour often starts slowly. This guide covers the early signs, what real contractions feel like and when to call your midwife, so you are not left guessing.
 
 ## In short
 - Early signs: Regular tightenings, a show (a pink or bloody mucus plug), backache or a watery trickle can all be early signs.
@@ -592,7 +592,7 @@ Sources: Signs that labour has begun (https://www.nhs.uk/pregnancy/labour-and-bi
 URL: https://miapregnancy.com/learn/labour-positions/
 Stage: Birth
 
-How you move in labour can make a real difference. Here are simple positions to try, and why they help.
+How you move in labour can change how it feels. These are simple positions to try, and why they help.
 
 ## In short
 - Stay upright: Standing, walking and leaning on a partner use gravity and can help baby move down.
@@ -635,11 +635,11 @@ Sources: Movement and positions during labour (https://www.tommys.org/pregnancy-
 
 ---
 
-# Labour and birth in water
+# Water birth: what the research says
 URL: https://miapregnancy.com/learn/water-birth/
 Stage: Birth
 
-Warm water can help you relax and move freely in labour, and many birth centres and hospitals have a pool. Here is what the research found, and how to ask for one.
+Warm water can help you relax and move freely in labour, and many birth centres and hospitals have a pool. This guide covers what the research found and how to ask for one.
 
 ## In short
 - Why water helps: Warm water supports your weight and can ease pain. Some people need less other pain relief.
@@ -681,11 +681,11 @@ Sources: How to prepare for a water birth (https://www.tommys.org/pregnancy-info
 
 ---
 
-# What a doula does
+# What a doula does, and whether you need one
 URL: https://miapregnancy.com/learn/doula/
 Stage: Birth
 
-A doula is a trained birth companion. They do not give medical care. They stay with you, help you feel steady and help you speak up for what you want.
+A doula is a trained birth companion. They give no medical care. They stay with you, help you feel steady and help you speak up for what you want.
 
 ## In short
 - Before birth: Talks through your wishes, your fears and your birth plan with you.
@@ -726,11 +726,11 @@ Sources: What is a doula? (https://www.tommys.org/pregnancy-information/giving-b
 
 ---
 
-# Birth partner guide: how to support labour
+# Birth partner guide: how to help in labour
 URL: https://miapregnancy.com/learn/birth-partner/
 Stage: Birth
 
-A birth partner can make a big difference. Mia gives partners a calm guide to what to do and what to say.
+A good birth partner helps you feel safe and heard. This guide covers what to do and what to say, in calm, plain steps.
 
 ## In short
 - Know the plan: Read the birth plan together. You can speak up for the wishes when your partner is busy coping.
@@ -770,11 +770,11 @@ Sources: Who can be my birth partner? (https://www.tommys.org/pregnancy-informat
 
 ---
 
-# Breathing and calm for labour
+# Breathing and relaxation for labour
 URL: https://miapregnancy.com/learn/hypnobirthing-breathing/
 Stage: Birth
 
-Slow, steady breathing can help you cope with contractions. These are simple techniques you can practise at home in a few minutes a day.
+Slow, steady breathing can help you cope with contractions. You can practise these techniques at home in a few minutes a day.
 
 ## In short
 - Slow breathing: Breathe in through your nose and out through your mouth. It may help you feel more in control.
@@ -819,7 +819,7 @@ Sources: What is hypnobirthing? (https://www.tommys.org/pregnancy-information/gi
 URL: https://miapregnancy.com/learn/birth-plan/
 Stage: Birth
 
-A birth plan is a short note about what matters to you in labour. Keep it to one page that your team can read in a minute.
+A birth plan is a short note on what matters to you in labour. Keep it to one page that your team can read in a minute.
 
 ## In short
 - Keep it short: One page is enough. Use plain words and put your most important wishes first.
@@ -864,11 +864,11 @@ Sources: Making your birth plan (https://www.tommys.org/pregnancy-information/gi
 
 ---
 
-# Home, birth centre or hospital: where to give birth
+# Where to give birth: home, birth centre or hospital
 URL: https://miapregnancy.com/learn/home-birth-or-hospital/
 Stage: Birth
 
-You have a choice about where to give birth. Mia explains each place fairly, so you can decide with your midwife.
+You have a choice about where to give birth. Each place is explained fairly, so you can decide with your midwife.
 
 ## In short
 - At home: With a midwife present. Usually only advised for a straightforward pregnancy. You can move to hospital at any time.
@@ -915,11 +915,11 @@ Sources: Where to give birth: the options (https://www.nhs.uk/pregnancy/labour-a
 
 ---
 
-# What to pack in your hospital bag
+# Hospital bag checklist: what to pack for labour and after
 URL: https://miapregnancy.com/learn/hospital-bag/
 Stage: Birth
 
-A packed bag takes one worry away. Mia gives you a short, calm list so you only bring what you need.
+A packed bag takes one worry away. This is a short list, so you bring only what you need.
 
 ## In short
 - For labour: Your birth plan and notes, comfortable clothes, snacks and drinks, a lip balm and a phone charger.
@@ -932,7 +932,7 @@ Pack a bag even if you plan a home birth, in case you need to go in. Have everyt
 You might give birth on your due date, but do not bet on it. Pack for at least a couple of days.
 
 ## For labour
-Your antenatal notes. These are vital, so keep them with you at all times in the last months.
+Your antenatal notes. Keep them with you at all times in the last months.
 One or two comfy nighties or big t-shirts. Labour rooms are warm. A comfy change of clothes.
 Drinks and snacks for you and your birth partner, something to read or listen to, a face cloth and a water spray, lip balm, hair bobbles, and a pillow from home.
 Phone, headphones and chargers, bank cards and change for the car park, toiletries, your medications, and a TENS machine if you want one.
@@ -963,11 +963,11 @@ Sources: Packing your bag for labour and birth (https://www.tommys.org/pregnancy
 
 ---
 
-# Eating dates in late pregnancy: what the research says
+# Do dates help labour? What the research says
 URL: https://miapregnancy.com/learn/dates-late-pregnancy/
 Stage: Birth
 
-Many people hear that eating dates near the end of pregnancy helps labour. Mia explains what the studies found and how strong the proof really is.
+Many people hear that eating dates near the end of pregnancy helps labour. This guide covers what the studies found and how strong the proof is.
 
 ## In short
 - What people do: Some people eat dates in the weeks before their due date, as a snack.
@@ -1017,11 +1017,11 @@ Sources: Antenatal care and appointments (https://www.nhs.uk/pregnancy/your-preg
 
 ---
 
-# Perineal massage and tear prevention
+# Tear prevention: perineal massage and what else helps
 URL: https://miapregnancy.com/learn/perineal-tear-prevention/
 Stage: Birth
 
-Many people worry about tearing. Mia explains what the research says helps and how to talk about it with your midwife.
+Many people worry about tearing. This guide covers what the research says helps and how to talk about it with your midwife.
 
 ## In short
 - Perineal massage: From 35 weeks, perineal massage has been shown to reduce the risk of tears, especially in a first birth.
@@ -1069,11 +1069,11 @@ Sources: Episiotomy and perineal tears (https://www.nhs.uk/pregnancy/labour-and-
 
 ---
 
-# Pain relief options in labour
+# Pain relief in labour: every option compared
 URL: https://miapregnancy.com/learn/pain-relief-in-labour/
 Stage: Birth
 
-There is no right or wrong way to cope with labour. Here is every option, fairly, so you can choose and change your mind.
+There is no right or wrong way to cope with labour. Every option is covered fairly, so you can choose and change your mind.
 
 ## In short
 - Without medicine: Warm water, massage, movement, breathing and a calm room can all help.
@@ -1118,11 +1118,11 @@ Sources: Pain relief in labour (https://www.nhs.uk/pregnancy/labour-and-birth/pa
 
 ---
 
-# Induction of labour: what to expect
+# Induction of labour: why, how and what to ask
 URL: https://miapregnancy.com/learn/induction-of-labour/
 Stage: Birth
 
-Induction means starting labour with medical help. Here is why it is offered, how it works and the questions worth asking.
+Induction means starting labour with medical help. This guide covers why it is offered, how it works and the questions worth asking.
 
 ## In short
 - Why it is offered: Common reasons are going past your due date, your waters breaking without labour, or a health concern for you or baby.
@@ -1180,7 +1180,7 @@ Sources: Inducing labour (https://www.nhs.uk/pregnancy/labour-and-birth/inducing
 URL: https://miapregnancy.com/learn/caesarean-birth/
 Stage: Birth
 
-A caesarean is a real birth. Here is why it may be advised, what happens, and how you can still make it feel like yours.
+A caesarean is a real birth. This guide covers why one may be advised, what happens and how you can still make it feel like yours.
 
 ## In short
 - Why it happens: Reasons include baby’s position, a health concern or labour not progressing. Some are planned and some are not.
@@ -1238,11 +1238,11 @@ Sources: Caesarean section (https://www.nhs.uk/tests-and-treatments/caesarean-se
 
 ---
 
-# The first six weeks after birth
+# The first six weeks after birth: what to expect
 URL: https://miapregnancy.com/learn/after-birth/
 Stage: After birth
 
-The first weeks after birth are a big change. Take them one day at a time: skin-to-skin, feeding, healing and how you are feeling.
+The first weeks after birth bring a lot of change. Take them one day at a time: skin-to-skin, feeding, healing and how you feel.
 
 ## In short
 - Skin-to-skin: Skin-to-skin right after birth helps bonding and can help feeding start.
@@ -1298,7 +1298,7 @@ Sources: What happens straight after the birth (https://www.nhs.uk/pregnancy/lab
 URL: https://miapregnancy.com/learn/delayed-cord-clamping/
 Stage: After birth
 
-What happens in the first minutes after birth matters. Mia explains cord clamping in plain words.
+The first minutes after birth matter. This guide explains cord clamping in plain words.
 
 ## In short
 - Waiting helps: Waiting at least one minute before clamping lets more blood pass to baby and is advised for most births.
@@ -1335,11 +1335,11 @@ Sources: Delayed (optimal) cord clamping (https://www.tommys.org/pregnancy-infor
 
 ---
 
-# Breastfeeding basics for new parents
+# Breastfeeding basics: latch, feeds and where to get help
 URL: https://miapregnancy.com/learn/breastfeeding-basics/
 Stage: After birth
 
-Feeding is a skill you and your baby learn together. Here are the basics, and where to find help, whatever you choose.
+Feeding is a skill you and your baby learn together. These are the basics, and where to find help, whatever you choose.
 
 ## In short
 - The first feed: Skin-to-skin soon after birth helps baby find the breast. Ask for help with the first feed.
@@ -1402,7 +1402,7 @@ Sources: Benefits of breastfeeding (https://www.nhs.uk/baby/breastfeeding-and-bo
 URL: https://miapregnancy.com/learn/newborn-safe-sleep/
 Stage: After birth
 
-Safe sleep is simple once you know it. Mia gives you the short list so you can rest more easily.
+Safe sleep comes down to a short list. Learn it once and you can rest more easily.
 
 ## In short
 - On the back: Always put baby to sleep on their back, for every sleep.
@@ -1445,11 +1445,11 @@ Sources: Sudden infant death syndrome (SIDS) (https://www.nhs.uk/baby/caring-for
 
 ---
 
-# Postnatal recovery: body and mind
+# Postnatal recovery: healing body and mind
 URL: https://miapregnancy.com/learn/postnatal-recovery/
 Stage: After birth
 
-Your body has done something huge. Give yourself time to rest and heal, and know the signs that need a call.
+Your body has done something huge. Give it time to rest and heal, and know which signs need a call.
 
 ## In short
 - Bleeding: Bleeding for a few weeks is normal. Call if it is very heavy, smells bad or you pass large clots.
@@ -1499,11 +1499,11 @@ Sources: Early days (https://www.nhs.uk/pregnancy/labour-and-birth/early-days/);
 
 ---
 
-# Postnatal depression: signs and where to get help
+# Baby blues or postnatal depression: signs and help
 URL: https://miapregnancy.com/learn/postnatal-depression/
 Stage: After birth
 
-Many new parents feel low. Mia explains the difference between baby blues and depression and how to get help fast.
+Many new parents feel low. This guide covers the difference between baby blues and depression, and how to get help fast.
 
 ## In short
 - Baby blues: Tearfulness and mood swings in the first two weeks are common and pass.

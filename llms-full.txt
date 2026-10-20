@@ -624,11 +624,6 @@ A birth pool can make changing position easier. Labouring in water is only advis
 An epidural can limit movement, partly because of your legs but mostly because of closer monitoring and the drip. Your midwife should still help you into comfortable upright positions in the first stage if you can manage it.
 It also raises the chance of needing help to give birth, though less with modern epidurals. If it is your first baby and you find it hard to stay upright, lying on your side in the second stage may help avoid an assisted birth.
 
-## When to call your midwife
-- You are unsure whether a position is safe for you
-- You have had opioid pain relief and want to use the pool
-- You are planning an epidural and want to know how you can move
-
 ## Questions
 Q: What is the best position for labour?
 A: There is no single best one. Do what feels right and keep changing. Upright and moving positions are generally helpful.
@@ -675,11 +670,6 @@ You cannot have an epidural, and you cannot have opiates such as pethidine for a
 The effect on your baby’s temperature is unclear, so your midwife checks the water often. It is uncertain whether water affects the risk or severity of perineal tears. You may need to leave the pool if there is a complication.
 A pool may not be free if your unit is busy. The NHS says the water is kept at a comfortable temperature, not above 37.5°C.
 
-## When to call your midwife
-- You want a water birth and are not sure it is safe for you
-- You want to book a pool at your unit or hire one for home
-- Your baby is breech, you are having twins, or you are under 37 weeks. Ask your midwife
-
 ## Questions
 Q: Can I change my mind about a water birth?
 A: Yes. You can change your mind at any time, in or out of the water.
@@ -725,10 +715,6 @@ There is no national regulation. Not all doulas are insured and some have no tra
 NCT doulas have completed a 9-month course and have professional insurance. Doula UK members have completed an approved preparation course. You can also ask your midwife about local doulas.
 Many doulas offer a first meeting, so you can see whether you are a good fit.
 
-## When to call your midwife
-- You want to ask your midwife about local doulas
-- You want to know how a doula fits with your hospital’s birth partner rules
-
 ## Questions
 Q: Is a doula a replacement for my midwife?
 A: No. A doula gives extra support but cannot replace the clinical care of your midwife or doctor.
@@ -772,10 +758,6 @@ Remind them you can change your mind at any point. Only you can consent to treat
 ## After the birth
 In hospital there may be a limit on how long a birth partner can stay. Some can stay overnight, others must leave and return in visiting hours.
 If you are worried about your partner leaving, talk to a nurse on your ward and explain why. They may be able to arrange for them to stay longer.
-
-## When to call your midwife
-- You want to know how many people your unit allows
-- You want your partner to be able to stay overnight
 
 ## Questions
 Q: Can I have more than one birth partner?
@@ -821,10 +803,6 @@ You can learn from a class, a book, an app or free online courses. In some areas
 
 ## One thing to tell your midwife
 Hypnobirthing can be so relaxing that a midwife may think you are at an earlier stage than you are. Say clearly that you are using it when you phone or arrive.
-
-## When to call your midwife
-- You want to find NHS antenatal classes in your area
-- You are using hypnobirthing and feel labour is moving on. Say so when you phone
 
 ## Questions
 Q: Is hypnobirthing proven to work?
@@ -874,10 +852,6 @@ Delayed cord clamping should happen automatically, but it can help to mention it
 ## Staying flexible
 Things do not always go to plan. A pool may not be free, or you may need to move to hospital during a home birth. Do not worry about covering every possibility.
 You can change your mind at any time, even in labour. Keep an open mind, because you may want more pain relief than you planned.
-
-## When to call your midwife
-- You want your midwife to go through your plan
-- You want to know what your unit can offer, such as a birth pool
 
 ## Questions
 Q: Do I have to write a birth plan?
@@ -930,10 +904,6 @@ Ask your midwife how long a transfer would take, which hospital you would go to,
 You may be advised to give birth in hospital if you have pre-eclampsia or high blood pressure, diabetes, a high BMI, abnormal scans, a previous caesarean, a breech baby, a multiple pregnancy, or a previous premature birth.
 Your midwife or doctor will explain why they think hospital is safer.
 
-## When to call your midwife
-- You want to plan a home birth. Tell your midwife as early as you can
-- You develop a health condition and want to review where you give birth
-
 ## Questions
 Q: Is a home birth safe?
 A: Giving birth is generally safe wherever you choose. For a first baby, home birth slightly raises the risk of serious problems for the baby. For second and later babies, a planned home birth is as safe as hospital.
@@ -981,10 +951,6 @@ You will also need a car seat to bring your baby home.
 You may prefer two bags, one for labour and one for after. Put them in a wheeled suitcase.
 Pack a nappy, hat and vest at the top so your birth partner can find them fast.
 Your hospital can usually provide basics like towels and blankets. Ask your midwife for a list specific to your unit.
-
-## When to call your midwife
-- You want a packing list from your own maternity unit
-- You have not packed and are past 36 weeks
 
 ## Questions
 Q: When should I pack my bag?
@@ -1140,11 +1106,6 @@ TENS has not been shown to work in active labour. It is probably most helpful in
 ## Other methods
 Acupuncture, aromatherapy, homeopathy, hypnosis, massage and reflexology are options, but most are not proven to give effective pain relief. Most hospitals do not offer them.
 If you want to try them, talk to your midwife first and choose a properly trained practitioner.
-
-## When to call your midwife
-- You want to talk about what pain relief your hospital or unit offers
-- You are planning a home birth and want to know your options
-- Your pain feels more than you can cope with. Tell your midwife
 
 ## Questions
 Q: Can I change my mind?
@@ -1363,10 +1324,6 @@ It is almost always recommended. Your team may clamp earlier if your baby needs 
 Rare reasons include heavy bleeding in the mother, a problem with the placenta such as placental abruption or placenta praevia, or a bleeding cord. Twins who share a placenta should not have delayed clamping.
 If your baby needs help breathing, your team may be able to help without cutting the cord. Some units have equipment to do this.
 
-## When to call your midwife
-- You want to confirm your unit does delayed cord clamping
-- You are having twins who share a placenta. Ask about your plan
-
 ## Questions
 Q: How long is delayed cord clamping?
 A: Between 1 and 5 minutes after birth. The cord should not be clamped before 1 minute.
@@ -1476,11 +1433,6 @@ Never use a hot water bottle or electric blanket, or put your baby next to a rad
 ## If you share a bed
 The safest place is a separate cot or Moses basket. If you do share a bed, use a firm flat mattress, keep pillows and blankets away, do not swaddle, keep other children and pets out, and make sure your baby cannot fall out or get trapped.
 Do not share a bed if your baby was born before 37 weeks or weighed under 2.5 kg. Also do not if you or your partner smoke, have had 2 or more units of alcohol, taken recreational drugs, or taken medicine that makes you drowsy.
-
-## When to call your midwife
-- You are worried about how your baby is sleeping or breathing
-- Your baby seems too hot or too cold
-- You have questions about safer sleep for a premature or small baby
 
 ## Questions
 Q: Is it safe to sleep with my baby on the sofa?

@@ -1,8 +1,8 @@
 # Mia
 
-> Mia is a calm pregnancy and natural birth companion app for iPhone. It gives short lessons, week-by-week guidance, honest answers with sources (NHS, WHO, NICE, Cochrane, midwifery research) and simple tools, from bump to baby. Mia teaches; the user's midwife or doctor decides. Mia is not a doctor.
+> Mia is a pregnancy app for iPhone. It explains each week, answers questions with sources (NHS, WHO, NICE, Cochrane, midwifery research), saves and sums up videos and files, and tracks symptoms, visits, notes and measurements, from pregnancy to the first weeks after birth. Mia teaches; the user's midwife or doctor decides. Mia is not a doctor.
 
-Free to start. Mia Plus unlocks every course for 12.99 EUR a month or 69.99 EUR a year, with 7 days free, or 59.99 EUR once for a whole pregnancy. A web app is coming soon.
+Free to start. Mia Plus unlocks the full app for 12.99 EUR a month or 69.99 EUR a year, with 7 days free, or 59.99 EUR once for a whole pregnancy. A web app is coming soon.
 
 ## Guides (29)
 
